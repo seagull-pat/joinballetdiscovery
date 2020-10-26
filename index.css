@@ -1,0 +1,29 @@
+body {
+    font-family: Dosis, sans-serif;
+    background: url(./images/ui-background-cyber-discovery.png)50% 0;
+    background-color: #0d2332;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+
+#logo-header {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem
+}
+
+#logo-header img {
+    width: 20%
+}
+
+#logo-blurb {
+    font-size: 48px;
+    color: #836da3;
+}
