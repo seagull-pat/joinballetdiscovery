@@ -1,0 +1,98 @@
+body {
+    font-family: Dosis, sans-serif;
+    background: url(./images/ui-background-cyber-discovery.png)50% 0;
+    background-color: #0d2332;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#container * {
+    max-width: 650px;
+    text-align: center
+}
+
+#logo-header {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    
+}
+
+#logo-header img {
+    width: 30%
+}
+
+#logo-title {
+    font-size: 48px;
+    color: #836da3;
+    font-weight: 500;
+}
+
+
+
+#logo-subtitle {
+    margin-top: 1.5rem;
+    font-weight: lighter;
+    font-size: 26px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 24px;
+}
+
+.round-button {
+    background-color: #705a8f;
+    padding: 0 32px;
+    border-radius: 6px;
+    min-height: 62px;
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500
+}
+
+.round-button:hover {
+    background-color: #574670
+}
+
+.gallery-container {
+    margin-top: 72px;
+    border-radius: 26px;
+    padding: 20px;
+    background-color: #fff;
+    
+    
+}
+
+.gallery-container h1 {
+    color: #3d4d5c;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.gallery-container img {
+    border-radius: 6px;
+
+}
+
+#b-quote {
+    color: #3d4d5c;
+    margin: 30px 10px;
+    font-size: 20px
+}
+
+#copyright-footer {
+    color: #3d4d5c;
+    font-size: 18px;
+    margin: 20px 0px;
+}

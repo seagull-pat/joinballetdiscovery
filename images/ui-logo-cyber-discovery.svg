@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="220"
+   viewBox="0 0 640 220"
+   version="1.1"
+   id="svg923"
+   sodipodi:docname="ui-logo-cyber-discovery.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata927">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ff00ff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview925"
+     showgrid="false"
+     inkscape:zoom="1.384375"
+     inkscape:cx="320"
+     inkscape:cy="81.106095"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg923" />
+  <defs
+     id="defs885">
+    <linearGradient
+       y2="100%"
+       y1="29.434%"
+       x2="62.382%"
+       x1="76.329%"
+       id="graydient">
+      <stop
+         id="stop962"
+         stop-color="#F0F3F5"
+         offset="0%" />
+      <stop
+         id="stop964"
+         stop-color="#BBC7D1"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       y2="100%"
+       y1="29.434%"
+       x2="62.382%"
+       x1="76.329%"
+       id="logo-cyber-discovery-n">
+      <stop
+         id="stop941"
+         stop-color="#F0F3F5"
+         offset="0%" />
+      <stop
+         id="stop943"
+         stop-color="#BBC7D1"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-a"
+       x1="35.169%"
+       x2="15.865%"
+       y1="8.041%"
+       y2="91.959%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop815" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop817" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-b"
+       x1="37.176%"
+       x2="23.153%"
+       y1="0%"
+       y2="70.547%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop820" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop822" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-c"
+       x1="40.484%"
+       x2="22.561%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop825" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop827" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-d"
+       x1="30.056%"
+       x2="12.565%"
+       y1="15.653%"
+       y2="84.347%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop830" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop832" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-e"
+       x1="39.665%"
+       x2="19.911%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop835" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop837" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-f"
+       x1="76.567%"
+       x2="62.494%"
+       y1="29.434%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop840" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop842" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-g"
+       x1="59.104%"
+       x2="54.281%"
+       y1="29.434%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop845" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop847" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-h"
+       x1="80.343%"
+       x2="64.27%"
+       y1="36.719%"
+       y2="82.289%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop850" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop852" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-i"
+       x1="80.343%"
+       x2="64.27%"
+       y1="32.802%"
+       y2="91.811%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop855" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop857" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-j"
+       x1="80.343%"
+       x2="64.27%"
+       y1="36.329%"
+       y2="83.237%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop860" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop862" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-k"
+       x1="80.343%"
+       x2="64.27%"
+       y1="34.743%"
+       y2="87.093%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop865" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop867" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-l"
+       x1="80.343%"
+       x2="64.27%"
+       y1="35.921%"
+       y2="84.226%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop870" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop872" />
+    </linearGradient>
+    <linearGradient
+       id="logo-cyber-discovery-m"
+       x1="77.882%"
+       x2="63.113%"
+       y1="29.434%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop875" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop877" />
+    </linearGradient>
+    <linearGradient
+       id="graydient-border"
+       x1="76.329%"
+       x2="62.382%"
+       y1="29.434%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#F0F3F5"
+         id="stop880" />
+      <stop
+         offset="100%"
+         stop-color="#BBC7D1"
+         id="stop882" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#graydient-border"
+       id="linearGradient939"
+       x1="342.79187"
+       y1="43.952305"
+       x2="339.59595"
+       y2="132.98309"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#graydient-border"
+       id="linearGradient960"
+       x1="342.79187"
+       y1="43.952305"
+       x2="339.59595"
+       y2="132.98309"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g921"
+     fill="none">
+    <g
+       transform="translate(146)"
+       id="g897" />
+    <g
+       transform="translate(0 100)"
+       id="g919">
+      <path
+         d="M66.3547602,92.1508761 L10.4269148,92.1508761 C2.98697208,92.1508761 0.0366499642,89.7239322 0.0366499642,84.4868429 C0.0366499642,83.0817702 0.293199714,81.4212296 0.678024338,79.5052213 L9.0158912,40.1631839 C10.8117394,31.3495456 15.8144595,27.5175289 24.1523264,27.5175289 L51.9879742,27.5175289 L48.0114531,45.9112088 L32.4901933,45.9112088 C30.3095204,45.9112088 29.2833214,46.6776121 28.7702219,49.104556 L24.4088762,69.7974458 C24.2806013,70.3083814 24.1523264,70.8193169 24.1523264,71.2025185 C24.1523264,72.4798575 24.9219756,72.990793 26.7178239,72.990793 L48.6528275,72.990793 L64.1740873,0.437944758 L85.8525411,0.437944758 L66.3547602,92.1508761 Z"
+         id="path899"
+         fill="url(#logo-cyber-discovery-f)" />
+      <polygon
+         points="101.118 92.151 79.439 92.151 93.164 27.518 114.843 27.518"
+         id="polygon901"
+         fill="url(#logo-cyber-discovery-g)" />
+      <polygon
+         points="116.638 19.854 120.744 .438 98.937 .438 94.832 19.854"
+         id="polygon903"
+         fill="#F0F3F5" />
+      <path
+         d="M169.102935,92.1508761 L113.944739,92.1508761 L117.536435,74.7790674 L159.610594,74.7790674 C161.919542,74.7790674 162.689191,74.1403979 163.202291,71.9689219 L164.100214,67.8814375 C164.100214,67.4982358 164.228489,67.242768 164.228489,66.9873002 C164.228489,65.9654291 163.587115,65.4544936 162.047817,65.4544936 L129.722548,65.4544936 C123.693629,65.4544936 121.256407,63.0275497 121.256407,58.9400654 C121.256407,58.0459281 121.256407,57.1517909 121.512957,56.2576537 L125.232927,38.7581111 C126.900501,31.0940778 130.620473,27.5175289 139.856263,27.5175289 L194.373086,27.5175289 L190.781388,44.2506682 L148.70723,44.2506682 C146.398282,44.2506682 145.372083,45.1448055 144.987259,47.3162816 L144.217609,51.0205643 C144.089334,51.4037659 144.089334,51.6592337 144.089334,51.9147015 C144.089334,53.0643065 144.730708,53.702976 146.270007,53.702976 L179.236649,53.702976 C185.137294,53.702976 187.702792,56.1299198 187.702792,60.2174042 C187.702792,60.9838075 187.702792,61.8779448 187.446242,62.7720819 L183.597995,80.9102941 C181.930422,88.5743273 178.082176,92.1508761 169.102935,92.1508761 Z"
+         id="path905"
+         fill="url(#logo-cyber-discovery-h)" />
+      <path
+         d="M252.225053,92.1508761 L205.661274,92.1508761 C198.221331,92.1508761 195.271009,89.7239322 195.271009,84.4868429 C195.271009,83.0817702 195.527559,81.4212296 195.912384,79.5052213 L204.25025,40.1631839 C206.046098,31.4772794 209.894345,27.5175289 219.386685,27.5175289 L265.950466,27.5175289 L261.973944,46.2944104 L227.724553,46.2944104 C225.415604,46.2944104 224.389406,47.1885477 223.876306,49.4877576 L219.643236,69.4142441 C219.51496,69.7974458 219.51496,70.1806474 219.51496,70.5638491 C219.51496,71.9689219 220.156335,72.4798575 222.080458,72.4798575 L256.32985,72.4798575 L252.225053,92.1508761 Z"
+         id="path907"
+         fill="url(#logo-cyber-discovery-i)" />
+      <path
+         d="M333.807874,27.5175289 C341.247817,27.5175289 344.069864,29.9444728 344.069864,35.3092961 C344.069864,36.7143689 343.941589,38.3749094 343.556764,40.1631839 L335.218898,79.5052213 C333.294775,88.1911256 329.446528,92.1508761 320.082463,92.1508761 L275.186257,92.1508761 C267.746314,92.1508761 264.795992,89.7239322 264.795992,84.4868429 C264.795992,83.0817702 265.052541,81.4212296 265.437366,79.5052213 L273.775233,40.1631839 C275.571081,31.4772794 279.419328,27.5175289 288.911668,27.5175289 L333.807874,27.5175289 Z M317.38869,45.9112088 L297.121259,45.9112088 C294.940587,45.9112088 294.042662,46.8053461 293.529563,49.104556 L289.039943,69.9251797 C288.911668,70.3083814 288.911668,70.8193169 288.911668,71.0747847 C288.911668,72.4798575 289.553042,72.990793 291.348891,72.990793 L311.616321,72.990793 C314.053544,72.990793 314.951467,72.0966558 315.464567,69.9251797 L319.954188,49.104556 C320.082463,48.5936205 320.082463,48.2104187 320.082463,47.8272171 C320.082463,46.4221443 319.312813,45.9112088 317.38869,45.9112088 Z"
+         id="path909"
+         fill="url(#logo-cyber-discovery-j)" />
+      <polygon
+         points="389.223 92.151 363.312 92.151 353.305 27.518 376.524 27.518 381.911 69.798 406.155 27.518 428.347 27.518"
+         id="polygon911"
+         fill="url(#logo-cyber-discovery-k)" />
+      <path
+         d="M486.968075,92.1508761 L433.605727,92.1508761 C426.037509,92.1508761 423.087187,89.7239322 423.087187,84.4868429 C423.087187,83.0817702 423.343737,81.4212296 423.728561,79.5052213 L432.066428,40.1631839 C433.862276,31.4772794 437.710523,27.5175289 447.331138,27.5175289 L491.970795,27.5175289 C498.641088,27.5175289 501.206585,29.9444728 501.206585,35.0538283 C501.206585,36.3311672 501.078311,37.8639738 500.693486,39.6522483 L495.177666,65.3267598 L454.386257,65.3267598 L456.823478,54.0861776 L477.475734,54.0861776 L478.758482,47.6994832 C478.886757,47.1885477 478.886757,46.8053461 478.886757,46.4221443 C478.886757,45.1448055 478.245383,44.6338699 476.57781,44.6338699 L455.412455,44.6338699 C453.103508,44.6338699 452.205583,45.5280071 451.692484,47.8272171 L446.689764,71.5857202 C446.561488,72.2243897 446.433214,72.7353253 446.433214,73.1185269 C446.433214,74.3958657 447.074589,74.9068013 448.870437,74.9068013 L490.559771,74.9068013 L486.968075,92.1508761 Z"
+         id="path913"
+         fill="url(#logo-cyber-discovery-l)" />
+      <path
+         d="M523.013315,92.1508761 L501.206585,92.1508761 L514.931997,27.5175289 L535.712527,27.5175289 L534.173228,34.7983606 C537.508375,29.9444728 541.356621,27.5175289 547.128991,27.5175289 L563.163351,27.5175289 L559.186829,45.9112088 L536.097351,45.9112088 C533.788404,45.9112088 532.63393,46.8053461 532.120831,49.104556 L523.013315,92.1508761 Z"
+         id="path915"
+         fill="url(#logo-cyber-discovery-m)" />
+      <path
+         d="M607.546456,119.230461 L554.184109,119.230461 L558.16063,100.709047 L599.20859,100.709047 C601.517537,100.709047 602.543737,99.8149094 603.056836,97.5156994 L604.21131,92.1508761 L570.090193,92.1508761 C562.65025,92.1508761 559.699928,89.7239322 559.699928,84.4868429 C559.699928,83.0817702 559.956478,81.4212296 560.341303,79.5052213 L571.372942,27.5175289 L593.051396,27.5175289 L583.559055,71.841188 C583.43078,72.3521235 583.43078,72.7353253 583.43078,73.1185269 C583.43078,74.5235997 584.20043,75.0345352 585.996278,75.0345352 L607.803006,75.0345352 L617.936721,27.5175289 L639.615176,27.5175289 L622.682891,106.584805 C620.758769,115.27071 616.910523,119.230461 607.546456,119.230461 Z"
+         id="path917"
+         fill="url(#logo-cyber-discovery-n)"
+         style="fill:url(#graydient-border)" />
+    </g>
+  </g>
+  <g
+     aria-label="ballet"
+     transform="scale(1.0186115,0.98172855)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.35385132px;line-height:1.25;font-family:'Harlow Solid Italic';-inkscape-font-specification:'Harlow Solid Italic, ';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient939);fill-opacity:1;stroke:url(#linearGradient960);stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none"
+     id="text931">
+    <path
+       d="M 149.68322,92.84304 168.88901,2.1209752 h 17.68954 L 170.65796,77.175163 h 27.54514 q 1.89531,0 2.65343,-0.758123 0.88448,-0.758123 1.3899,-2.779785 l 5.43321,-25.902539 q 0.25271,-1.263539 0.25271,-1.642601 0,-1.137184 -0.75812,-1.516246 -0.63177,-0.379061 -2.02167,-0.379061 h -21.22744 l 3.2852,-15.288816 h 30.07221 q 10.10831,0 10.10831,8.465708 0,0.884477 -0.12635,1.895308 -0.12635,1.01083 -0.37906,2.148015 l -8.213,38.916986 q -1.3899,6.444047 -4.80145,9.476539 -3.2852,3.032492 -10.10831,3.032492 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Hemi Head';-inkscape-font-specification:'Hemi Head';text-align:center;text-anchor:middle;fill:url(#linearGradient939);fill-opacity:1;stroke:url(#linearGradient960);stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path967" />
+    <path
+       d="m 239.7676,92.84304 q -4.80145,0 -6.94947,-1.768953 -2.14801,-1.895308 -2.14801,-5.55957 0,-1.768954 0.63177,-4.675092 l 3.15885,-15.162463 q 0.75812,-3.537907 1.76895,-5.938631 1.01083,-2.400723 2.52708,-3.790615 1.51624,-1.389892 3.66426,-1.895308 2.14801,-0.631769 5.18051,-0.631769 h 32.47294 L 277.80011,64.28707 H 254.551 q -1.76896,0 -2.52708,0.631769 -0.75812,0.63177 -1.13718,2.653431 l -1.3899,6.696754 q -0.12635,0.63177 -0.2527,1.010831 0,0.379062 0,0.758123 0,1.6426 2.40072,1.6426 h 29.5668 l 6.69675,-31.335755 q 0.12636,-0.505415 0.12636,-1.389892 0,-1.010831 -0.63177,-1.516246 -0.63177,-0.63177 -2.40072,-0.63177 H 241.6629 l 2.90614,-13.898923 h 52.3105 q 5.55957,0 7.83394,1.895307 2.27437,1.768954 2.27437,5.685924 0,1.768954 -0.63177,4.9278 L 295.48965,92.84304 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Hemi Head';-inkscape-font-specification:'Hemi Head';text-align:center;text-anchor:middle;fill:url(#linearGradient939);fill-opacity:1;stroke:url(#linearGradient960);stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path969" />
+    <path
+       d="M 308.86538,92.84304 328.07116,2.1209752 H 345.7607 L 326.55491,92.84304 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Hemi Head';-inkscape-font-specification:'Hemi Head';text-align:center;text-anchor:middle;fill:url(#linearGradient939);fill-opacity:1;stroke:url(#linearGradient960);stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path971" />
+    <path
+       d="M 340.20707,92.84304 359.41285,2.1209752 h 17.68954 L 357.8966,92.84304 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Hemi Head';-inkscape-font-specification:'Hemi Head';text-align:center;text-anchor:middle;fill:url(#linearGradient939);fill-opacity:1;stroke:url(#linearGradient960);stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path973" />
+    <path
+       d="m 382.41517,92.84304 q -5.43321,0 -7.83394,-1.768953 -2.27437,-1.895308 -2.27437,-5.812278 0,-1.768954 0.63177,-4.9278 l 8.213,-38.916986 q 1.3899,-6.444046 4.54874,-9.476539 3.2852,-3.032492 10.23466,-3.032492 h 43.21302 q 4.80145,0 6.82311,1.895307 2.14801,1.768954 2.14801,5.433216 0,2.274369 -0.50541,4.675093 L 442.3069,66.056024 H 399.72565 L 401.87366,55.4423 h 25.77619 l 1.89531,-8.592061 q 0.12635,-0.63177 0.12635,-1.6426 0,-1.010831 -0.63177,-1.389893 -0.50541,-0.379061 -2.02166,-0.379061 h -25.39712 q -2.14802,0 -2.90614,0.758123 -0.75812,0.631769 -1.26354,2.779784 l -5.93863,27.54514 q -0.12636,0.631769 -0.25271,1.137185 0,0.379061 0,0.758123 0,1.137184 0.63177,1.516246 0.63177,0.379062 2.27437,0.379062 h 43.08666 l -3.03249,14.530692 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Hemi Head';-inkscape-font-specification:'Hemi Head';text-align:center;text-anchor:middle;fill:url(#linearGradient939);fill-opacity:1;stroke:url(#linearGradient960);stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path975" />
+    <path
+       d="m 461.15732,92.84304 q -5.30686,0 -7.70759,-1.768953 -2.27437,-1.895308 -2.27437,-5.812278 0,-1.768954 0.63177,-4.9278 l 14.65705,-69.24191 h 17.68954 l -3.79062,17.815893 h 15.41517 l -2.90613,13.898923 h -15.41517 l -6.94947,32.725648 q -0.2527,1.263538 -0.2527,1.6426 0,1.768954 2.77978,1.768954 h 11.62455 L 481.753,92.84304 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Hemi Head';-inkscape-font-specification:'Hemi Head';text-align:center;text-anchor:middle;fill:url(#linearGradient939);fill-opacity:1;stroke:url(#linearGradient960);stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path977" />
+  </g>
+</svg>
