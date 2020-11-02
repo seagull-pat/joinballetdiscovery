@@ -2,6 +2,7 @@ body {
     font-family: Dosis, sans-serif;
     background: url(./images/ui-background-cyber-discovery.webp)50% 0;
     background-color: #0d2332;
+    background-repeat: no-repeat;
 }
 
 #container {
@@ -94,4 +95,31 @@ body {
     color: #3d4d5c;
     font-size: 18px;
     margin: 20px 0px;
+}
+
+#warning {
+    position: fixed;
+    width: 100%;
+    toP: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    font-size: 1.3rem
+}
+
+#warning-inner {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 100px;
+    font-weight: bold;
+    color: red
+}
+
+.code {
+    font-family: monospace;
+    background-color: #333;
+    color: #ddd;
+    padding: 3px;
+    font-weight: normal;
 }
